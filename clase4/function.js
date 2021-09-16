@@ -15,7 +15,7 @@ function saludar(pMensaje){
 // Con parametro y Retornando
 function sumar(numero1,numero2){
     console.log()
-    return numero1 + numero2
+    return numero1 + numero2;
 }
 
 // Ejemplo 1
